@@ -1,0 +1,2 @@
+My first day of using git,
+it's going great
